@@ -1,0 +1,9 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.example.webdesignertool
+productName: Web Designer Tool
+win:
+  target: nsis
+files: []
+electronVersion: 28.3.3
